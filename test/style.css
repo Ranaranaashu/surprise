@@ -1,0 +1,29 @@
+.test{
+    background-color:burlywood;
+}
+.header-container{
+    background-color: white;
+    display: flex;
+    align-items: stretch;
+
+}
+.midsection-container{
+    background-color: aliceblue;
+    align-items: stretch;
+    display:flex;
+}
+.backpack-container{
+    display: flex;
+    background-color: aliceblue;
+}
+.backpack-theory{
+    
+    background-color:aliceblue
+}
+.footer-container-black{
+    background-color: black;
+}
+.footer-container-green{
+    background-color: green;
+}
+
